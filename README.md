@@ -23,7 +23,7 @@
 <img align="left" alt="JavaScript" width="75px" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black" />
 <img align="left" alt="Node.js" width="75px" src="https://img.shields.io/badge/-node.js-43853D?logo=node.js&logoColor=black" />
 <img align="left" alt="PHP" width="75px" src="https://img.shields.io/badge/-php-6769C4?logo=php&logoColor=white" />
-<br>
+<br><br/>
 
 #### 🤖Programms
 <img align="left" alt="Visual Studio Code" width="76px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -35,7 +35,7 @@
 <img align="left" alt="ADOBE AfterEffects" width="75px" src="https://img.shields.io/badge/Adobe%20After%20Effects-0B01CF?style=for-the-badge&logo=Adobe%20after-effects&logoColor=white" />
 <img align="left" alt="ADOBE Illustrator" width="75px" src="https://img.shields.io/badge/Adobe%20Illustrator-C6E11C?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
 <img align="left" alt="ADOBE Xd" width="75px" src="https://img.shields.io/badge/Adobe%20xd-F0018A?style=for-the-badge&logo=Adobe%20xd&logoColor=white" />
-<br/>
+<br><br/>
 
 ---
 
