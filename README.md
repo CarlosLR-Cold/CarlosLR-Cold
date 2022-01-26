@@ -32,9 +32,9 @@
 <img align="left" alt="Git" width="75px" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="ADOBE PhotoShop" width="75px" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 <img align="left" alt="ADOBE PremierePro" width="75px" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-0B01CF?style=for-the-badge&logo=Adobe%20Premiere-pro&logoColor=white" />
-<img align="left" alt="ADOBE AfterEffects" width="75px" src="https://img.shields.io/badge/Adobe%20After%20Effects-0B01CF?style=for-the-badge&logo=Adobe%20after-effects&logoColor=white" />
-<img align="left" alt="ADOBE Illustrator" width="75px" src="https://img.shields.io/badge/Adobe%20Illustrator-C6E11C?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black" />
-<img align="left" alt="ADOBE Xd" width="75px" src="https://img.shields.io/badge/Adobe%20xd-F0018A?style=for-the-badge&logo=Adobe%20xd&logoColor=white" />
+<img align="left" alt="PhpStorm" width="75px" src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" />
+<img align="left" alt="IntelliJ IDEA" width="75px" src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=black" />
+<img align="left" alt="Xcode" width="75px" src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 <br><br/>
 
 ---
@@ -42,7 +42,7 @@
 ### 📠Operating systems
 <img align="left" alt="Windows" width="75px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img align="left" alt="Kali Linux" width="75px" src="https://img.shields.io/badge/Kali%20Linux-0064CE?style=for-the-badge&logo=kali-linux&logoColor=white" />
-<img align="left" alt="Arch Linux" width="75px" src="https://img.shields.io/badge/Arch%20Linux-2D2D2D?style=for-the-badge&logo=arch-linux&logoColor=blue" />
+<img align="left" alt="macOS" width="75px" src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macosx&logoColor=blue" />
 <img align="left" alt="Debian" width="75px" src="https://img.shields.io/badge/Debian-3F3F3F?style=for-the-badge&logo=debian&logoColor=red" />
 <img align="left" alt="Ubuntu" width="75px" src="https://img.shields.io/badge/Ubuntu-FFFFFF?style=for-the-badge&logo=ubuntu&logoColor=red" />
 <br />
@@ -53,15 +53,6 @@
 [<img align="left" alt="Discord" width="100px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="Twitch" width="100px" src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" />][twitch]
 <br />
-
----
-
-### ⌨️PC Component
-<img align="left" alt="Xtream | Nvidia" width="100px" src="https://img.shields.io/badge/NVIDIA-GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img align="left" alt="AMD" width="100px" src="https://img.shields.io/badge/RYZEN%205%201600-ff770f?style=for-the-badge&logo=amd&logoColor=white" />
-<img align="left" alt="Windows" width="100px" src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<br />
-
 
 ---
 
