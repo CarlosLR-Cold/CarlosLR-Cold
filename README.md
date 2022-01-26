@@ -68,8 +68,8 @@
 <details>
   <summary>📚GitHub Stats</summary>
 
-  <img align="left" alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuscusero&layout=compact" />
-  <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=cuscusero&show_icons=true&theme=algolia" />
+  <img align="left" alt="Marks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosLR-Cold&layout=compact" />
+  <img align="left" alt="Top Language" src="https://github-readme-stats.vercel.app/api?username=CarlosLR-Cold&show_icons=true&theme=algolia" />
 
 </details>
 
