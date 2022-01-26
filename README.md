@@ -1,6 +1,6 @@
 # CarlosLR Profile
 
-###👋 ¡Hey! I am CarlosLR
+👋 ¡Hey! I am CarlosLR
 
 - 🌐 Coming from Spain
 - 📫 You can contact me through Discord: CarlosLR#0001
