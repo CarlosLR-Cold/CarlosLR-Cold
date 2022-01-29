@@ -9,6 +9,7 @@
     - 🥶 [ColdHosting](https://coldhosting.com/)
     - 🪐 [CfxFinder](https://discord.com/invite/7RAA7hPKvJ)
     - ⚔️ [LR-AC](https://discord.gg/Xf7MRPq2hd)
+    - 🏛️ [LirPuP](https://lirpup.com/)
 
 
 ## 💻Working with these Languages & Programms:
